@@ -1,0 +1,101 @@
+supplier_id,supplier_name,supplier_category,contract_cost_usd,esg_score,scope_3_intensity_kg_per_usd,decarbonization_target_year
+1,Supplier_A1,IT Services,1132.59,39.2,0.108636,2040
+2,Supplier_A2,IT Services,1778.63,35.5,0.19515,2030
+3,Supplier_A3,Raw Material,109.12,52.9,0.161591,2035
+4,Supplier_A4,Raw Material,1962.39,79.8,0.132449,2030
+5,Supplier_A5,Raw Material,1287.47,60.6,0.070848,2040
+6,Supplier_A6,IT Services,1977.96,22.8,0.328909,2040
+7,Supplier_A7,IT Services,11099.32,74.4,0.291077,2035
+8,Supplier_A8,Raw Material,6167.21,25.6,0.196271,2030
+9,Supplier_A9,Energy,1913.38,60.7,0.232369,2035
+10,Supplier_A10,IT Services,1317.68,55.2,0.262275,2040
+11,Supplier_B1,IT Services,3822.75,27.3,0.131527,2030
+12,Supplier_B2,Energy,332.67,48.4,0.11035,2040
+13,Supplier_B3,Energy,40288.43,57.9,0.221348,2035
+14,Supplier_B4,Raw Material,11896.34,54.5,0.061406,2040
+15,Supplier_B5,Raw Material,4092.48,42.3,0.315045,2040
+16,Supplier_B6,Logistics,3537.2,54.2,0.282189,2030
+17,Supplier_B7,Packaging,793.5,52.5,0.416412,2035
+18,Supplier_B8,Logistics,2388.23,79.3,0.224997,2035
+19,Supplier_B9,Packaging,6682.74,61.9,0.300729,2040
+20,Supplier_B10,IT Services,5657.85,49.3,0.304402,2035
+21,Supplier_C1,Energy,549.66,70.6,0.207101,2030
+22,Supplier_C2,Packaging,10866.64,73.3,0.132924,2040
+23,Supplier_C3,Packaging,2160.74,56.5,0.246952,2030
+24,Supplier_C4,IT Services,9421.49,60.7,0.406477,2035
+25,Supplier_C5,Packaging,2296.8,32.7,0.358311,2040
+26,Supplier_C6,Logistics,128.26,51.3,0.281914,2040
+27,Supplier_C7,IT Services,678.14,54.2,0.174609,2030
+28,Supplier_C8,Logistics,1609.03,50.9,0.135317,2040
+29,Supplier_C9,Packaging,1165.35,65.1,0.1743,2035
+30,Supplier_C10,Raw Material,4359.15,57.9,0.278187,2040
+31,Supplier_D1,Logistics,7052.91,74.3,0.248128,2040
+32,Supplier_D2,Energy,5844.36,51.1,0.139035,2040
+33,Supplier_D3,Raw Material,31725.27,57.4,0.099885,2030
+34,Supplier_D4,IT Services,3978.87,61.9,0.316106,2040
+35,Supplier_D5,IT Services,1498.08,41.8,0.294701,2040
+36,Supplier_D6,IT Services,2537.33,63.0,0.215345,2030
+37,Supplier_D7,Packaging,5877.46,59.2,0.136108,2035
+38,Supplier_D8,Packaging,1809.19,45.5,0.126005,2035
+39,Supplier_D9,Packaging,2301.72,61.3,0.235368,2035
+40,Supplier_D10,Raw Material,4874.35,70.7,0.254889,2035
+41,Supplier_E1,IT Services,2058.76,77.8,0.15854,2040
+42,Supplier_E2,Packaging,20490.16,63.4,0.187976,2040
+43,Supplier_E3,IT Services,2634.84,80.2,0.155487,2040
+44,Supplier_E4,IT Services,11800.33,64.2,0.297199,2040
+45,Supplier_E5,Packaging,1869.68,64.0,0.306502,2035
+46,Supplier_E6,Energy,17872.82,67.4,0.091058,2035
+47,Supplier_E7,Packaging,2817.69,64.9,0.116066,2030
+48,Supplier_E8,Energy,1210.44,65.9,0.17932,2030
+49,Supplier_E9,Raw Material,2390.44,39.2,0.426286,2040
+50,Supplier_E10,IT Services,5377.16,91.9,0.122961,2040
+51,Supplier_F1,IT Services,388.86,61.4,0.208671,2040
+52,Supplier_F2,Energy,1437.96,31.5,0.139907,2040
+53,Supplier_F3,IT Services,512.45,75.1,0.432991,2030
+54,Supplier_F4,Raw Material,21185.52,56.3,0.067928,2030
+55,Supplier_F5,Raw Material,3259.87,50.2,0.320933,2030
+56,Supplier_F6,Energy,1968.26,44.1,0.068463,2035
+57,Supplier_F7,Packaging,3461.83,72.1,0.400145,2030
+58,Supplier_F8,Raw Material,111743.07,44.6,0.050554,2040
+59,Supplier_F9,Logistics,1635.38,43.9,0.281736,2030
+60,Supplier_F10,Raw Material,1339.05,55.2,0.296666,2035
+61,Supplier_G1,Raw Material,22037.84,70.6,0.174269,2030
+62,Supplier_G2,Packaging,6553.79,50.5,0.345919,2040
+63,Supplier_G3,Raw Material,3573.51,68.9,0.427845,2030
+64,Supplier_G4,Raw Material,10353.85,69.0,0.285371,2040
+65,Supplier_G5,Logistics,8814.51,55.4,0.105382,2030
+66,Supplier_G6,Raw Material,6365.37,73.5,0.341292,2035
+67,Supplier_G7,Packaging,3228.57,65.2,0.447204,2030
+68,Supplier_G8,Packaging,8707.5,45.6,0.324525,2035
+69,Supplier_G9,IT Services,4461.56,62.3,0.205805,2035
+70,Supplier_G10,Energy,3292.1,67.6,0.069349,2040
+71,Supplier_H1,IT Services,5758.77,44.1,0.368531,2035
+72,Supplier_H2,IT Services,5465.06,55.5,0.37323,2035
+73,Supplier_H3,Logistics,1991.29,64.9,0.384003,2030
+74,Supplier_H4,Energy,4715.79,54.3,0.254081,2030
+75,Supplier_H5,Logistics,485.76,50.7,0.233348,2030
+76,Supplier_H6,Raw Material,174.5,51.8,0.321842,2040
+77,Supplier_H7,IT Services,1782.46,73.6,0.320121,2030
+78,Supplier_H8,Energy,472.87,59.2,0.325417,2030
+79,Supplier_H9,IT Services,4216.0,57.1,0.42097,2030
+80,Supplier_H10,Logistics,6516.78,35.8,0.431928,2040
+81,Supplier_I1,Packaging,7110.51,62.2,0.170497,2030
+82,Supplier_I2,Packaging,9684.2,55.0,0.33392,2040
+83,Supplier_I3,Energy,7114.81,39.6,0.106,2030
+84,Supplier_I4,IT Services,6840.11,68.3,0.242878,2030
+85,Supplier_I5,IT Services,297.96,77.9,0.284937,2040
+86,Supplier_I6,Logistics,3631.04,51.9,0.273804,2030
+87,Supplier_I7,Packaging,12637.44,50.8,0.185991,2030
+88,Supplier_I8,Logistics,2953.48,64.9,0.089375,2030
+89,Supplier_I9,Raw Material,759.26,67.4,0.257675,2040
+90,Supplier_I10,Packaging,7049.59,59.8,0.401808,2030
+91,Supplier_J1,Energy,266.89,66.6,0.127124,2035
+92,Supplier_J2,Packaging,2350.79,47.0,0.283819,2040
+93,Supplier_J3,Logistics,13433.93,73.2,0.177526,2030
+94,Supplier_J4,Packaging,5039.2,54.0,0.390421,2035
+95,Supplier_J5,Energy,5101.89,73.1,0.146292,2030
+96,Supplier_J6,Logistics,1480.66,51.4,0.100889,2040
+97,Supplier_J7,Energy,4293.52,41.0,0.43355,2035
+98,Supplier_J8,Raw Material,601.93,41.6,0.090186,2030
+99,Supplier_J9,Energy,5013.5,47.6,0.151579,2035
+100,Supplier_J10,Energy,3316.56,39.0,0.22642,2035

@@ -1,0 +1,8 @@
+total_facilities: 50
+total_energy_logs: 80000
+total_logistics_trips: 15000
+total_suppliers: 100
+average_emission_intensity_kg_per_100k: 4283.00045295685
+critical_risk_facilities: 50
+high_risk_facilities: 0
+low_risk_facilities: 0

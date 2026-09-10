@@ -12,7 +12,7 @@
 
 ---
 
-## STEP-BY-STEP DELIVERY — SEPARATE FROM FIRST PROJECT
+## STEP-BY-STEP BREAKDOWN
 
 | Step | File | Evidence / Output |
 |---|---|---|
@@ -33,24 +33,3 @@
 - **Average emission intensity:** ~4,283 kg per $100k revenue (synthetic; demonstrates methodology)
 - **Critical / High / Low / Medium rating distribution:** produced via NumPy `np.select()` logic
 
----
-
-## CONSULTING DELIVERY FORMAT
-
-- **Black-and-white design** (consistent with CV) — all charts, Excel, and spec use grayscale/black typography.
-- **Impact quantification** — every output includes metrics (MTCO₂e totals, intensity ratios, supplier counts) framed for client recommendations.
-- **Audit-ready documentation** — Excel workpaper mimics Big-4 audit deliverables (red-flag conditions, factor lookup, evidence traceability).
-- **Executive communication** — Power BI spec designed for board-level review with geographic bubble maps and net-zero progress tracking.
-
----
-
-## HOW TO USE IN INTERVIEW / PORTFOLIO
-
-- **Portfolio path:** `/home/user/project_esg_carbon_audit/`
-- **Quick demo:** Open `03_visualizations/` PNGs; show `scope1_2_trend.png` + `supplier_risk_quadrant.png`; open `04_carbon_accounting_workpaper.xlsx` to show conditional formatting and XLOOKUP formulas.
-- **Consulting case answer:** Problem (global supply chain carbon risk) → Approach (5-step SQL → Python → Visual → Audit → Dashboard) → Evidence (trend deviation, critical facilities, supplier quadrant) → Recommendation (freeze high-risk contracts, renegotiate supplier terms, transition grid contracts).
-- **CV insertion:** Project card already integrated into `Kuntal_Dakua_Consulting_CV.html` under **Projects** (second project entry, after Forensic Procurement Pipeline, also black-and-white, impact-quantified).
-
----
-
-*Prepared separately from the first project. No file mixing. All outputs executable and reproducible.*
